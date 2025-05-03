@@ -1,4 +1,8 @@
-loadstring(game:HttpGet("https://pastebin.com/raw/X5rwj7Kb"))()
+local plr = game.Players.LocalPlayer
+
+loadstring(game:HttpGet("https://pastebin.com/raw/wCCwr6sG"))()
+
+local KeyIndex = player
 
 
 
